@@ -14,3 +14,7 @@ An active internet connection to perform network tasks.
 
 
 ![Exercise 2](https://github.com/user-attachments/assets/bc902c1d-ce49-47a6-a481-3bd266efcd3d)
+![Smoothed Line Graph for Latency](https://github.com/user-attachments/assets/1f3d1faa-752f-44da-9901-0e73e2902480)
+
+![Heatmap Representation](https://github.com/user-attachments/assets/9005b56e-f015-4e51-b166-3af7fd61a784)
+
