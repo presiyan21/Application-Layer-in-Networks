@@ -1,18 +1,18 @@
 ![🌐TCP_IP_Application_Layer (3)](https://github.com/user-attachments/assets/7b3e4a37-16d8-4f9f-aead-bdaa3e747d92)
 
-## Exercises Overview
-
-### 📌 Exercise 1: Retrieve IP Addresses of Websites
-- Goal: Use Python to get the IP addresses of three websites.
-- Description: This exercise involves using the socket module to resolve the IP address of websites. It retrieves the IP address for each of the given websites and displays the result.
-
-### 📌 Exercise 2: Tracing Routes to Websites
-- Goal: Perform a trace route to three different websites or IP addresses.
-- Description: This exercise demonstrates how to use the subprocess module to run the trace route command (tracert on Windows or traceroute on Linux) to analyze the route packets take to reach a destination. It provides the route hops and time information for each of the domains.
-
 ## 📌 Introduction
 
 A variety of Python exercises with the purpose of assisting learners with fundamental networking along with how to implement the language when dealing with domain names, IP addresses, and network routes can also be encountered in the above repository. The ultimate objective regarding each of the exercises serves as the demonstration of methods you can tackle network-related projects encompassing DNS lookups and route tracing, as well as capturing beneficial network information in an everyday context.
+
+## Exercises Overview
+
+### 📌 Exercise : Retrieve IP Addresses of Websites
+- Goal: Use Python to get the IP addresses of three websites.
+- Description: This exercise involves using the socket module to resolve the IP address of websites. It retrieves the IP address for each of the given websites and displays the result.
+
+### 📌 Exercise : Tracing Routes to Websites
+- Goal: Perform a trace route to three different websites or IP addresses.
+- Description: This exercise demonstrates how to use the subprocess module to run the trace route command (tracert on Windows or traceroute on Linux) to analyze the route packets take to reach a destination. It provides the route hops and time information for each of the domains.
 
 ## 🚀 Installation and Usage
 
