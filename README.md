@@ -23,6 +23,8 @@ A variety of Python exercises with the purpose of assisting learners with fundam
   
 - An active internet connection to perform network tasks.
 
+## 📄 Exercises Code
+
 ### 🌐 Exercise : Retrieve IP Addresses of Websites
 ![Exercise 1](https://github.com/user-attachments/assets/678e2ab7-a0ab-4bc2-9986-3ef01e2204f0)
 
