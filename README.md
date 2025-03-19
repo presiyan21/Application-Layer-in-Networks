@@ -23,10 +23,10 @@ A variety of Python exercises with the purpose of assisting learners with fundam
   
 - An active internet connection to perform network tasks.
 
-
+### 🌐 Exercise : Retrieve IP Addresses of Websites
 ![Exercise 1](https://github.com/user-attachments/assets/678e2ab7-a0ab-4bc2-9986-3ef01e2204f0)
 
-
+### 🔍 Exercise : Tracing Routes to Websites
 ![Exercise 2](https://github.com/user-attachments/assets/bc902c1d-ce49-47a6-a481-3bd266efcd3d)
 
 ## 📈 Tracert Analysis and Evaluation
