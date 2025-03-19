@@ -7,9 +7,9 @@ A variety of Python exercises with the purpose of assisting learners with fundam
 ## 🚀 Installation and Usage
 
 ### ✅ Prerequisites
-Python 3.x installed on your system.
-A terminal (Command Prompt, PowerShell, or a terminal in your IDE).
-An active internet connection to perform network tasks.
+- Python 3.x installed on your system.
+- A terminal (Command Prompt, PowerShell, or a terminal in your IDE).
+- An active internet connection to perform network tasks.
 
 
 ![Exercise 1](https://github.com/user-attachments/assets/678e2ab7-a0ab-4bc2-9986-3ef01e2204f0)
